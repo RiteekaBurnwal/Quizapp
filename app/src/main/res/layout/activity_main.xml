@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
-    android:background="#E35B5B"
+    android:background="#E91E63"
     android:padding="24dp"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
@@ -17,7 +17,7 @@
         android:text="Total Question"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="20dp"
-        android:textColor="#EEE0F1"
+        android:textColor="#eeeeee"
         android:textSize="30dp"
         android:textStyle="bold"
         />
